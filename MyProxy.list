@@ -22,4 +22,5 @@ DOMAIN-SUFFIX,board.zash.run.place
 DOMAIN-SUFFIX,bangumi.moe
 DOMAIN-SUFFIX,feedercdn.com
 DOMAIN-SUFFIX,acgrip.com
-DOMAIN-SUFFIX,ntp.msn.com # Microsoft Edge 新建标签页
+DOMAIN-SUFFIX,ntp.msn.com # Microsoft Edge 新建标签页 # 后来发现还是无效
+DOMAIN-SUFFIX,copilot.microsoft.com
