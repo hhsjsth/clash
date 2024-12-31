@@ -19,3 +19,4 @@ DOMAIN-SUFFIX,feedercdn.com
 DOMAIN-SUFFIX,acgrip.com
 # DOMAIN-SUFFIX,ntp.msn.com # Microsoft Edge 新建标签页 # 后来发现有时有效有时无效
 DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,gofile.io
