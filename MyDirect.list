@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,datatracker.ietf.org
 DOMAIN-SUFFIX,gnu.org
 DOMAIN-KEYWORD,worldquant
 DOMAIN-SUFFIX,speech.platform.bing.com
-DOMAIN-SUFFIX,archlinux.org
+# DOMAIN-SUFFIX,archlinux.org
 DOMAIN-SUFFIX,d2lang.com
 DOMAIN-SUFFIX,realbook.site
 DOMAIN-SUFFIX,worldquant.zoom.us
