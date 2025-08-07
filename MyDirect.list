@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,d2lang.com
 DOMAIN-SUFFIX,realbook.site
 DOMAIN-SUFFIX,worldquant.zoom.us
 # DOMAIN-SUFFIX,acgrip.com
-DOMAIN-SUFFIX,myworkday.com
+# DOMAIN-SUFFIX,myworkday.com
 DOMAIN-SUFFIX,ruanyifeng.com
 DOMAIN-SUFFIX,trae.com.cn
 DOMAIN-SUFFIX,yandex.com
@@ -20,3 +20,4 @@ DOMAIN-SUFFIX,404.website
 DOMAIN-SUFFIX,musescore.com
 # DOMAIN-KEYWORD,-vm0.entry.
 # DOMAIN-SUFFIX,astral.sh
+
