@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,realbook.site
 DOMAIN-SUFFIX,worldquant.zoom.us
 # DOMAIN-SUFFIX,acgrip.com
 # DOMAIN-SUFFIX,myworkday.com
-DOMAIN-SUFFIX,ruanyifeng.com
+# DOMAIN-SUFFIX,ruanyifeng.com
 DOMAIN-SUFFIX,trae.com.cn
 DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,workona.com
@@ -24,3 +24,4 @@ DOMAIN-SUFFIX,khalil-fong.com
 DOMAIN-SUFFIX,yunge.in
 DOMAIN-SUFFIX,pairdrop.net
 DOMAIN-SUFFIX,web.localsend.org
+
