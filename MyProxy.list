@@ -17,7 +17,6 @@ DOMAIN-SUFFIX,board.zash.run.place
 DOMAIN-SUFFIX,bangumi.moe
 DOMAIN-SUFFIX,feedercdn.com
 # DOMAIN-SUFFIX,ntp.msn.com # Microsoft Edge 新建标签页 # 后来发现有时有效有时无效
-DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,gofile.io
 DOMAIN-SUFFIX,simonwillison.net
 DOMAIN-SUFFIX,rss.beauty
@@ -54,4 +53,5 @@ DOMAIN-KEYWORD,kemono
 DOMAIN-SUFFIX,longluo.me
 DOMAIN-SUFFIX,coolshell.cn
 DOMAIN-SUFFIX,ruanyifeng.com
+
 
