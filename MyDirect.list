@@ -35,5 +35,6 @@ DOMAIN-KEYWORD,landrop
 DOMAIN-SUFFIX,music.nayu.fun
 # DOMAIN-KEYWORD,bitwarden # 只能使用代理, 否则同步速度非常慢, 只有几十 KB/s
 DOMAIN-SUFFIX,kernel.org
+DOMAIN-SUFFIX,people.cn
 
 
